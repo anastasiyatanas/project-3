@@ -1,0 +1,19 @@
+.h1{
+    text-align: center;
+}
+.h2{
+    text-align: center;
+}
+.button{
+    align-items: center;
+    margin: 30px;
+    padding: 60px;
+
+}
+.buttonDiv{
+    position: fixed;
+    left: 311px;
+}
+.container{
+    margin:100px;
+}
